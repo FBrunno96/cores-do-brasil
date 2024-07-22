@@ -40,17 +40,6 @@ header > p {
     text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.377);
 }
 
-body {
-    background-color: lightgray;
-}
-
-main {
-    max-width: 800px;
-    margin: 10px auto;
-    background-color: white;
-    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.425);
-}
-
 footer {
     background-color: black;
     color: white;
